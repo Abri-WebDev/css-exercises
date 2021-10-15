@@ -1,0 +1,22 @@
+
+.stclass,
+.ndclass
+{
+    font-size: 28px;
+   
+    font-family: Helvetica, "Times New Roman", sans-serif;
+   
+
+}
+.stclass {
+    background-color: black;
+    
+    color: white;
+    
+}
+.ndclass {
+  
+    background-color: yellow;
+    color: black;
+    
+}
